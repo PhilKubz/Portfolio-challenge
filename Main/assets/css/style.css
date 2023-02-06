@@ -220,23 +220,23 @@ main {
 }
 
 /* portfolio project images */
-.run-buddy {
+.multiplayer-game {
   background-image: url("../images/02-run-buddy.jpg");
 }
 
-.led-wall {
+.landing-page-practice {
   background-image: url("../images/02-portfolio-1.jpg");
 }
 
-.react-calc {
+.submission-forms {
   background-image: url("../images/02-portfolio-2.jpg");
 }
 
-.pastel-puzzles {
+.website-showcase {
   background-image: url("../images/02-portfolio-3.jpg");
 }
 
-.surf-report {
+.company-landing-page{
   background-image: url("../images/02-portfolio-4.jpg");
 }
 
