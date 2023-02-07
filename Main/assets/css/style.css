@@ -88,7 +88,7 @@ main {
 
 .hero-banner {
   background: rgb(68, 88, 120);
-  background-image: url("../images/02-hero-bg.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url("../images/stock-banner-01.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
@@ -221,23 +221,23 @@ main {
 
 /* portfolio project images */
 .multiplayer-game {
-  background-image: url("../images/02-run-buddy.jpg");
+  background-image: url("../images/stock-photo-2.jpg");
 }
 
 .landing-page-practice {
-  background-image: url("../images/02-portfolio-1.jpg");
+  background-image: url("../images/stock-photo-1.jpg");
 }
 
 .submission-forms {
-  background-image: url("../images/02-portfolio-2.jpg");
+  background-image: url("../images/stock-photo-3.jpg");
 }
 
 .website-showcase {
-  background-image: url("../images/02-portfolio-3.jpg");
+  background-image: url("../images/stock-photo-4.jpg");
 }
 
-.company-landing-page{
-  background-image: url("../images/02-portfolio-4.jpg");
+.website-support{
+  background-image: url("../images/stock-photo-5.jpg");
 }
 
 /* end portfolio project images */
