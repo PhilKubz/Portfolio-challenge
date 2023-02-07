@@ -31,4 +31,4 @@ The Challenge 02 Portfolio project includes work in both HTML and CSS to best la
 ## Portfolio Link
 This link will direct to a live version of the Challenge 02 project:
 
-[Challenge 02]()
+[Challenge 02](https://philkubz.github.io/Portfolio-challenge/#contact)
