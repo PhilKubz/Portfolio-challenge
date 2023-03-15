@@ -8,7 +8,8 @@ Introductory Project that uses a sample website to showcase newly learned web de
 
 ## Screenshot
 
-![_C__Users_phili_Bootcamp_portfolio-challenge_index html](https://user-images.githubusercontent.com/122698773/217125065-5d7cb6d1-fae3-42f1-bc72-8e13e0ffaa7b.png)
+![127 0 0 1_5500_index html](https://user-images.githubusercontent.com/122698773/225209150-b8ab66e7-ae08-4c82-b107-c3e7a903993b.png)
+
 
 
 ## Description
